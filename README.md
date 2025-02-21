@@ -1,0 +1,3 @@
+# Python: Subtle ZeroDivisionError
+This repository demonstrates a subtle ZeroDivisionError in Python that is masked by an if-else statement.  The `bug.py` file contains the erroneous code, while `bugSolution.py` offers a corrected version.
+The error is not immediately obvious; it only occurs under specific circumstances and needs careful inspection to find the root cause. The bug highlights the importance of proper error handling and careful consideration of edge cases when writing code.
